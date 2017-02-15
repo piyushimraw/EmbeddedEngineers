@@ -1,0 +1,23 @@
+{
+  "name": "embeddedengineers",
+  "version": "1.0.0",
+  "description": "this is the package for embedded engineers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyushimraw/EmbeddedEngineers.git"
+  },
+  "author": "piyush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyushimraw/EmbeddedEngineers/issues"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7"
+  }
+}
